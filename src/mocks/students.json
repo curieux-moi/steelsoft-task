@@ -1,0 +1,98 @@
+[
+  {
+    "id": 0,
+    "fullName": "Иванов Иван Иванович",
+    "birthDate": "2000-04-20",
+    "enrolled": true,
+    "educationForm": "Очная",
+    "sections": [{
+      "id": 0,
+      "name": "Секция 1",
+      "enteredAt": "2022-06-12"
+    }, {
+      "id": 1,
+      "name": "Секция 2",
+      "enteredAt": "2022-06-12"
+    }]
+  },
+  {
+    "id": 1,
+    "fullName": "Петров Петр Петрович",
+    "birthDate": "1996-06-21",
+    "enrolled": true,
+    "educationForm": "Заочная",
+    "sections": [{
+      "id": 2,
+      "name": "Секция 3",
+      "enteredAt": "2022-06-12"
+    }]
+  },
+  {
+    "id": 2,
+    "fullName": "Человеков Человек Человекович",
+    "birthDate": "2000-04-20",
+    "enrolled": false,
+    "educationForm": "Очная",
+    "sections": [{
+      "id": 3,
+      "name": "Секция 4",
+      "enteredAt": "2022-06-12"
+    }, {
+      "id": 4,
+      "name": "Секция 5",
+      "enteredAt": "2022-06-12"
+    }]
+  },
+  {
+    "id": 3,
+    "fullName": "Студентов Студент Студентович",
+    "birthDate": "1996-06-21",
+    "enrolled": true,
+    "educationForm": "Очная",
+    "sections": [{
+      "id": 2,
+      "name": "Секция 3",
+      "enteredAt": "2022-06-12"
+    }, {
+      "id": 4,
+      "name": "Секция 5",
+      "enteredAt": "2022-06-12"
+    }, {
+      "id": 0,
+      "name": "Секция 1",
+      "enteredAt": "2022-06-12"
+    }]
+  },
+  {
+    "id": 4,
+    "fullName": "Студентов Студент Студентович",
+    "birthDate": "1996-06-21",
+    "enrolled": true,
+    "educationForm": "Заочная",
+    "sections": [{
+      "id": 1,
+      "name": "Секция 3",
+      "enteredAt": "2022-06-12"
+    }, {
+      "id": 0,
+      "name": "Секция 1",
+      "enteredAt": "2022-06-12"
+    }]
+  },
+  {
+    "id": 5,
+    "fullName": "Студентов Студент Студентович",
+    "birthDate": "1996-06-21",
+    "enrolled": true,
+    "educationForm": "Очная",
+    "sections": [{
+      "id": 1,
+      "name": "Секция 3",
+      "enteredAt": "2022-06-12"
+    }, {
+      "id": 0,
+      "name": "Секция 1",
+      "enteredAt": "2022-06-12"
+    }]
+  }
+]
